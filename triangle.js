@@ -10,20 +10,20 @@ function myFunction(){
     var sideone=document.getElementById("sideone").value; 
     var sidetwo=document.getElementById("sidetwo").value;
     var sidethree=document.getElementById("sidethree").value;
- }
- if (a === b && b === c) {
+ 
+ if (sideone=== sidetwo && sidetwo=== sidethree) {
    alert("This is an equilateral Triangle");
    }
    
-   else if (a === b || b===c || a===c ) {
+   else if (sideone === sidetwo || sidetwo===sidethree|| sideone===sidethree) {
    alert("This is an isosceles Triangle");
    }
    
-   else if ( a+b>c || b+c>=a || a+c<=b ) {
+   else if ( sideone+sidetwo>sidethree || sideotwo+sidethree>=sideone || sideone+sidethree<=sidetwo ) {
    alert("This is an scalene Triangle");
    }
    
    else {
    alert("Not a Triangle! Please try again.");
    }
-
+ }
