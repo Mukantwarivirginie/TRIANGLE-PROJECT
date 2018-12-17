@@ -14,4 +14,5 @@ Virginie mukantwari
 ### Contact information
 0786679517
 
-### License and Copyright informati
+### License and Copyright information
+Copyright 2018
