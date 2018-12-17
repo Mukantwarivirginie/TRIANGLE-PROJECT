@@ -6,7 +6,7 @@ this is triangle help me to know different Triangles
 ### Author information
 Virginie mukantwari
 ### Setup instructions 
-how used visual studio code also styling
+how  to used visual studio code also styling
 ### BDD
 
 ### Technologies useds
