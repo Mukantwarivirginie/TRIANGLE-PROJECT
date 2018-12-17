@@ -1,0 +1,24 @@
+h1{
+    text-align: left;
+    color:royalblue;
+}
+img{
+    align-items:center;
+    padding-left:100px;
+    width: 500px;
+    height: 400px;
+    border-radius:48%; 
+    padding: 25px;  
+}
+
+p{
+ text-align:center; 
+}
+
+
+body{
+   background-color:burlywood;
+}
+
+
+    
