@@ -5,8 +5,8 @@ this is triangle help me to know different Triangles
 
 ### Author information
 Virginie mukantwari
-### Setup instructions - includes any scripts that need to be run if necessary
-
+### Setup instructions 
+how used visual studio code also styling
 ### BDD
 
 ### Technologies useds
@@ -15,4 +15,7 @@ Virginie mukantwari
 0786679517
 
 ### License and Copyright information
-Copyright 2018
+link to go on Github
+https://github.com/mukantwarivirginie/Triangle-project
+
+ MIT Copyright 2018
