@@ -10,15 +10,20 @@ img{
     border-radius:48%; 
     padding: 25px;  
 }
-
 p{
  text-align:center; 
 }
-
-
 body{
    background-color:burlywood;
 }
-
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:blue;
+    color: white;
+    text-align: center;
+   }
+   
 
     

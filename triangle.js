@@ -1,15 +1,8 @@
-function myFunction(){
-    var sideone=document.getElementById("sideone").value;
-  alert(sideone);
-  var sidetwo=document.getElementById("sidetwo").value;
-  alert(sidetwo);
-  var sidethree=document.getElementById("sidethree").value;
-  alert(sidethree);
- };
+
  function number(){
-    var sideone=document.getElementById("sideone").value; 
-    var sidetwo=document.getElementById("sidetwo").value;
-    var sidethree=document.getElementById("sidethree").value;
+    var sideone=document.getElementById("firstside").value; 
+    var sidetwo=document.getElementById("secondside").value;
+    var sidethree=document.getElementById("thirdside").value;
  
  if (sideone=== sidetwo && sidetwo=== sidethree) {
    alert("This is an equilateral Triangle");
