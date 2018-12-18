@@ -8,11 +8,12 @@ Virginie mukantwari
 ### Setup instructions 
 how  to used visual studio code also styling
 ### BDD
-| Description                                 | input | output      |
-|---------------------------------------------|-------|-------------|
-| if I put egual side it become "Eguilateral" | 4,4,4 | Equilateral |
-| if I put 2 egual sides it "isosceles"       | 5,5,6 | isoscele    |
-| if I put 3 different number it "scalen"     | 3,5,6 | scalene     |
+| Behavior                                      | input   | output      |
+|---------------------------------------------  |-------  |-------------|
+| if I put egual side it become "Eguilateral"   | 4,4,4   | Equilateral |
+| if I put 2 egual sides it "isosceles"         | 5,5,6   | isoscele    |
+| if I put 3 different number it "scalen"       | 3,5,6   | scalene     |
+| if two side are less than other it"NO triangle| 30,40,80| Triangle    |
 ### Technologies useds
 html,css,Javascript
 ### Contact information
